@@ -14,8 +14,8 @@ To get started with these lab assignments, clone the repository and navigate to 
 
 ```bash
 git clone https://github.com/titan000001/OOP-Lab-Assignments.git
-cd OOP-Lab-Assignments/Lab-Assignment-1```
-
+cd OOP-Lab-Assignments/Lab-Assignment-1
+```
 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
