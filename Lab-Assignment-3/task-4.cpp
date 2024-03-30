@@ -83,7 +83,7 @@ int main() {
     current.withdraw(2000.0);
     current.deductServiceCharge(25.0);
 
-    JointAccount joint(3001, 20000.0, 0.07, "Tawhidul Islam", "Nirjhara Gharami");
+    JointAccount joint(3001, 20000.0, 0.07, "Tawhidul Islam", "Needru");
     joint.displayOwners();
     joint.deposit(5000.0);
     joint.withdraw(10000.0);
